@@ -14,5 +14,21 @@ body {
 }
 #container h1 {
     font-size: 25px;
+<<<<<<< HEAD
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+=======
+}
+#cabecera {
+    background:violet;
+    box-shadow: thistle 0px 5px 3px 2px;
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding:  0.5em;;
+}
+#cabecera #tagline {
+    margin: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+>>>>>>> cabecera
 }
