@@ -14,9 +14,6 @@ body {
 }
 #container h1 {
     font-size: 25px;
-<<<<<<< HEAD
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-=======
 }
 #cabecera {
     background:violet;
@@ -30,5 +27,4 @@ body {
     margin: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
->>>>>>> cabecera
 }
