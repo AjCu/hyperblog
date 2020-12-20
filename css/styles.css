@@ -16,8 +16,8 @@ body {
     font-size: 25px;
 }
 #cabecera {
-    background: blueviolet;
-    box-shadow: thistle 0px 5px 3px 1px;
+    background:violet;
+    box-shadow: thistle 0px 5px 3px 2px;
     color: white;
     font-weight: bold;
     margin: 0;
