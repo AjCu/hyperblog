@@ -9,7 +9,8 @@ body {
     padding: 1em;
     text-align: left;
     border: 1px solid #dddddd;
-    margin 0 auto;
+    margin: 0 auto ;
+    padding: 0;
 }
 #container h1 {
     font-size: 25px;
