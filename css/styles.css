@@ -9,8 +9,22 @@ body {
     padding: 1em;
     text-align: left;
     border: 1px solid #dddddd;
-    margin 0 auto;
+    margin: 0 auto ;
+    padding: 0;
 }
 #container h1 {
     font-size: 25px;
+}
+#cabecera {
+    background: blueviolet;
+    box-shadow: thistle 0px 5px 3px 1px;
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding:  0.5em;;
+}
+#cabecera #tagline {
+    margin: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
 }
